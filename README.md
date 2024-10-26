@@ -29,25 +29,29 @@ Create a directory named "MyLab" on the desktop.
 
 
 ## COMMAND AND OUTPUT
-
+![image](https://github.com/user-attachments/assets/52379886-c9de-45ad-8e6f-5dc5a2012fde)
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/d988162d-8cd2-472b-89c5-75fed85409f8)
 
 List the contents of the "MyLab" directory.
 
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/5e82601a-3021-4da5-bc16-653c23af2d81)
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/21766d16-0130-43f5-8015-8aa6485a679e)
 
 Move the "MyLab" directory to the "Documents" folder.
 
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/3b204c27-caa1-45d7-8119-979a313cd778)
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -62,6 +66,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 ## OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/0f59f00f-d30a-4f8e-aabe-cafc394f35eb)
 
 
 
